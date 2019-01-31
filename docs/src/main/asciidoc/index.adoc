@@ -1,0 +1,12 @@
+[[index]]
+= SmallRye LRA Documentation
+
+Welcome to the documentation of SmallRye Long Running Actions (LRA).
+
+SmallRye LRA is an implementation of https://github.com/eclipse/microprofile-lra/[Eclipse MicroProfile LRA].
+
+[[more-resources]]
+== More Resources
+
+* https://github.com/smallrye/smallrye-lra/[GitHub project repository]
+* https://github.com/eclipse/microprofile-lra/[Eclipse MicroProfile LRA]
